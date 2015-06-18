@@ -1,10 +1,3 @@
-Übung 02 / Abgabe 1 - Raytracer - Moritz Möller - Matrikel Nr: 177764
-
-
-
-Die Datei trace1920x1080.png zeigt das Ergebnis meines Raytracers in Full HD Auflösung.
-
-
 Raytracer
 ================
 
@@ -25,8 +18,6 @@ Innerhalb der main.py werden alle Objekte erstellt, sowie alle Konstanten und Ei
 
 Screenshots
 ================
+Die Datei trace1920x1080.png zeigt das Ergebnis meines Raytracers in Full HD Auflösung.
 Workflows erstellen und editieren
-![Screenshot](https://raw.githubusercontent.com/MoritzMoeller/Rocketflow/master/screen01.png "Workflow Editor")
-
-Workflow Client zum abarbeiten der Tasks
-![Screenshot](https://raw.githubusercontent.com/MoritzMoeller/Rocketflow/master/screen02.png "Workflow Client")
+![Screenshot](https://raw.githubusercontent.com/MoritzMoeller/Raytracer/master/trace1920x1080.png "FullHD Raytracing")
