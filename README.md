@@ -13,6 +13,7 @@ Anleitung
 ================
 Folgendes Python Script instanziiert und startet das Raytracing:
 * main.py
+
 Innerhalb der main.py werden alle Objekte erstellt, sowie alle Konstanten und Einstellungen gesetzt. Standardmäßig wird ein Bild in der Auflösung 500x500 mit zwei Lichtquellen gerendert.
 
 
