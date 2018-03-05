@@ -1,24 +1,23 @@
 Raytracer
 ================
 
-Im Zuge meines Studiums habe ich für das Modul Generative Computergrafik einen Raytracer in Python implementiert. Folgende Features werden unterstützt:
+This is a raytracer coded in Python which was created during my studies. It includes:
 
-* Beleuchtung (Mehrere Quellen möglich
-* Spiegelungen
-* Schattierungen
-* Schatten
+* Lighting (Mehrere Quellen möglich)
+* Reflections
+* Shading
+* Shadows
 
 
 Anleitung
 ================
-Folgendes Python Script instanziiert und startet das Raytracing:
+The following Python script instantiates and starts the raytracing:
 * main.py
 
-Innerhalb der main.py werden alle Objekte erstellt, sowie alle Konstanten und Einstellungen gesetzt. Standardmäßig wird ein Bild in der Auflösung 500x500 mit zwei Lichtquellen gerendert.
+The main.py is responsible to create all objects and configurations needed by the raytracer. The default rendering is 500x500px with two light sources.
 
 
 Screenshots
 ================
-Die Datei trace1920x1080.png zeigt das Ergebnis meines Raytracers in Full HD Auflösung.
-Workflows erstellen und editieren
+The following picture trace1920x1080.png shows the raytracing result in Full HD.
 ![Screenshot](https://raw.githubusercontent.com/MoritzMoeller/Raytracer/master/trace1920x1080.png "FullHD Raytracing")
